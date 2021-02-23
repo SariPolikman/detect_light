@@ -1,4 +1,5 @@
 # detect_light
 
-![detect_light](https://user-images.githubusercontent.com/57223094/108878006-77673300-7608-11eb-87f3-33db2d63d7e5.PNG)
+![detect_light](https://user-images.githubusercontent.com/57223094/108879663-28220200-760a-11eb-85e8-89edbcba211e.PNG)
+
 
